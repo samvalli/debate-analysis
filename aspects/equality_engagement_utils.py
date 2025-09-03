@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from kialo_utils.kialo_authors import *
+from aspects.data_collection.kialo_utils import *
 import collections
 import os
 import ast
