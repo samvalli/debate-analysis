@@ -21,11 +21,11 @@ The project provides:
 - **Example Jupyter notebook** (`notebook_example.ipynb`) showing how to load data and compute some of these measures.
 
 ## Repository Structure
+
 debate-analysis/
 │
-├── data_collection/        # Scripts for extracting and preprocessing debate data
-├── aspects/                # Functions for computing deliberation metrics
-├── notebook_example.ipynb  # Toy example of applying the methods
-└── README.md               # Project documentation
-
+├── data_collection/
+├── aspects/
+├── notebook_example.ipynb
+└── README.md
 
