@@ -7,8 +7,8 @@ It is not intended to represent the full framework used, but rather as an illust
 ## Overview
 
 The project provides:
-- **Data collection tools** (`data_collection/`) used to scrape and preprocess debates from the platforms **Wikidebate**, **Kialo**, and **Change My View**.
-- **Aspect evaluation scripts** (`aspects/` and other scripts in the repo), which operationalize deliberation metrics such as:
+- **Data collection tools** (`code/data_collection/`) used to scrape and preprocess debates from the platforms **Wikidebate**, **Kialo**, and **Change My View**.
+- **Aspect evaluation scripts** (`code/` and other scripts in the repo), which operationalize deliberation metrics such as:
   - Engagement  
   - Equality  
   - Sourcing  
@@ -18,7 +18,9 @@ The project provides:
   - Language Readability & Complexity  
   - Sentiment Analysis
 
-- **Example Jupyter notebook** (`notebook_example.ipynb`) showing how to load data and compute some of these measures.
+- **Data** (`data/`) contains the data used for the example, rest of the data used in the paper is avaible upon reasonable request.
+
+- **Example of debate analysis** (`notebook_example.ipynb`) shows how to compute the defined metrics upon three debates -one from each platform considered- about the same topic.
 
 ## Repository Structure
 
@@ -27,8 +29,10 @@ The project provides:
 ```
 debate-analysis/
 │
-├── data_collection/
-├── aspects/
+├── coede/      
+|     └── data_collection/
+├── data/
+|      └── kialo_raw_data/
 ├── notebook_example.ipynb
 └── README.md
 ```
