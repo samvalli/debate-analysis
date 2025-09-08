@@ -22,8 +22,6 @@ The project provides:
 
 ## Repository Structure
 
-## Repository Structure
-
 ```
 debate-analysis/
 │
@@ -32,5 +30,4 @@ debate-analysis/
 ├── notebook_example.ipynb
 └── README.md
 ```
-
 
