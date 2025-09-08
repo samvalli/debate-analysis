@@ -22,13 +22,15 @@ The project provides:
 
 ## Repository Structure
 
+## Repository Structure
 
-
-
+```
 debate-analysis/
 │
 ├── data_collection/
 ├── aspects/
 ├── notebook_example.ipynb
 └── README.md
+```
+
 
