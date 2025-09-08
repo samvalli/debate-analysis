@@ -67,7 +67,7 @@ def kialo_parser(input_dir,output_dir):
 
 
 def count_kialo_items(input_dir):
-    
+
     question_flag=0
     with open(input_dir, 'r') as fi:
         lines = []

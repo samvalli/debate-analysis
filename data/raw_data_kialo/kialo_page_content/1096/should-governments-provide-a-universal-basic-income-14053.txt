@@ -1,0 +1,628 @@
+Discussion Name:
+Should governments provide a universal basic income?
+
+1. Thesis:
+Governments should provide a universal basic income (UBI).
+
+  1.1. Con:
+  Economic growth is likely to slow if a UBI is implemented.
+
+    1.1.1. Con:
+    Economic growth in and of itself is not good. Mindless consumerism to promote economic growth comes with a number of associated harms [1].
+
+      1.1.1.1. Pro:
+      The present UBI-less system is replete with negative externalities [2] that lead to the creation of wasteful products. It is unclear that implementing a UBI particularly worsens this.
+
+      1.1.1.2. Pro:
+      The pursuit of economic growth often comes at the cost of happiness, undermining a key obligation [3] of governments to ensure their citizens can live the good life.
+
+      1.1.1.3. Con:
+      Economic growth is an indirect marker [4] of a government's capacity to provide, or for citizens to access, goods and services. Thus, a decrease in growth can signal that such resources are harder to come by.
+
+    1.1.2. Con:
+    A UBI stimulates [5] consumer demand capacity, which increases business turnover. This has a multiplier effect [6], so the state can recoup the cost of a UBI through taxes and productivity gains.
+
+      1.1.2.1. Pro:
+      The 2007 economic stimulus package in Australia, of which cash handouts akin to a UBI were a key component, was a huge success [7] with large economic benefits.
+
+      1.1.2.2. Con:
+      In our global economy, people don't spend all of their income domestically [8], so there is likely to be leakage of government spending with time, and a transfer of wealth between nations.
+
+      1.1.2.3. Con:
+      Taxing the rich -- through corporate [9] or income taxes -- may lead to a lack of motivation to run businesses and reduce government tax revenue, such that a UBI becomes unsustainable.
+
+    1.1.3. Pro:
+    Widely distributing money [10] will devalue it, leading to inflation, as the currency is no longer viewed as a store of value.
+
+      1.1.3.1. Con:
+      That follows the assumption that a UBI would be funded by creating new money. Most of the ideas about funding a UBI do not involve creating new money [11].
+
+      1.1.3.2. Con:
+      Inflation could be easily addressed by regulating [12] other contributing factors, like banking.
+
+        1.1.3.2.1. Pro:
+        Concerns regarding inflation caused by a UBI can be addressed by keeping the amount of money in the economy stable, leaving the amount of money spent per output constant (p. 5 [13]).
+
+        1.1.3.2.2. Con:
+        Banking counters inflation with policies that modulate the amount of money in circulation [14]. As a UBI drastically increases the amount of money in the economy, it undermines such fiscal interventions.
+
+      1.1.3.3. Pro:
+      If everyone has the ability to pay more but providers can also charge more, the actual purchasing power of each dollar diminishes.
+
+        1.1.3.3.1. Pro:
+        Rent is an often unregulated market that people rely upon to live; even with a UBI, rent could increase such that payments are rendered useless and wealth inequality [15] remains.
+
+        1.1.3.3.2. Pro:
+        A UBI would likely have the same impact on the economy that federally subsidized loans had on college tuition [16]; costs will increase as providers know they can charge consumers more.
+
+        1.1.3.3.3. Con:
+        There is no evidence [17] of excessive price increases with any UBI experiment, nor with minimum-wage increases, which closely mirror the economic effects of a UBI.
+
+        1.1.3.3.4. Con:
+        Unless a UBI is combined with printing extra money, there is no reason for it to lead to inflation. In fact, it could replace quantitative easing [18].
+
+    1.1.4. Pro:
+    A UBI is likely to breed economic complacency and reduce productivity, as it discourages people from doing their best.
+
+      1.1.4.1. Pro:
+      A Negative Income Tax (NIT) [19] is a more appropriate intervention than a UBI, as it incentivises working-to-earn while maintaining the key benefits of the latter policy.
+
+        1.1.4.1.1. Pro:
+        A NIT is sufficiently able to support people such that they reap many benefits [20], from pursuing more educational opportunities to structuring their families in ways that better suit them.
+
+        1.1.4.1.2. Con:
+        Topping up income with tax credits subsidizes [21] businesses that pay their workers less than a living wage. This ultimately harms workers, as businesses tend to pay proportionally [22] less tax.
+
+      1.1.4.2. Pro:
+      Providing a UBI will reduce the number of workers available as even fewer [23] people will be willing to complete vital but unpleasant tasks.
+
+        1.1.4.2.1. Con:
+        People do not work solely because they're motivated by money. Research shows other motivations play a strong role, such that work seldom reduces [24] in UBI trials.
+
+          1.1.4.2.1.1. Pro:
+          A UBI would not be a high income; there would still be plenty of people motivated [25] to work more to earn a higher income and achieve their dreams.
+
+          1.1.4.2.1.2. Pro:
+          Work provides many benefits [26] beyond income. Interaction with other people, schedule, innovation, purpose, etc. An idle mind is the devil's workshop.
+
+          1.1.4.2.1.3. Con:
+          In Saudi Arabia, they struggle [27] to get their citizens [28] to work in physical labor or care work because they receive a UBI, with the labor market gaps often filled by foreign workers.
+
+        1.1.4.2.2. Con:
+        A combination of UBI and advanced machines/robotics is likely to reduce the demand for physical labour such that labour shortages are minimal (p. 26 [29]).
+
+        1.1.4.2.3. Pro:
+        If a UBI is put in place, those that are working just above the line established may decide to quit their job [30] and rely on the government instead of being a productive member of society.
+
+          1.1.4.2.3.1. Con:
+          Many jobs today serve no real need [31] other than to create more profit. These could be eliminated if we shifted employment goals from generating wealth to creating social good.
+
+          1.1.4.2.3.2. Pro:
+          Many great technological advances are driven [32] by necessity or an ambition to escape one's reality. A UBI would undermine this drive towards innovation.
+
+        1.1.4.2.4. Pro:
+        UBI may lower competitiveness in people and motivate them to stay unemployed [33]. This would lower productivity and, therefore, harm government revenue streams.
+
+        1.1.4.2.5. Con:
+        Many welfare systems discourage people from working [34] due to the welfare trap [35]. An unconditional payment like a UBI removes this issue and so ensures that society remains productive.
+
+      1.1.4.3. Con:
+      Thus far, no UBI experiment has been shown to decrease productivity. In fact, entrepreneurship often blossoms.
+
+        1.1.4.3.1. Pro:
+        Most experiments show that a UBI creates a greater incentive to start businesses than any other compensation package in the developed world (pp. 14-15 [36]).
+
+        1.1.4.3.2. Con:
+        Numerous studies [37] show that higher corporate tax rates adversely effect investment and economic growth; such taxes are likely to be imposed to finance a UBI.
+
+      1.1.4.4. Con:
+      A UBI offers greater bargaining power in wages and employment for workers; this is likely to lead to improved [38] working conditions.
+
+        1.1.4.4.1. Con:
+        A UBI could decrease union power as fewer people work in traditional organised labour strongholds (p. 15 [39]).
+
+        1.1.4.4.2. Con:
+        Unions in places like Finland have decried [40] the possible implementation of a UBI, citing harms to the workforce as likely negative outgrowths of the project.
+
+        1.1.4.4.3. Pro:
+        Often the strongest negotiating position is gained [41] through a willingness to walk away entirely; workers are better able to do this when they know they have a UBI to ensure their basic needs are met.
+
+        1.1.4.4.4. Con:
+        While most citizens depend on corporations for their income, there are checks and balances [42] to mitigate exploitation, including: labour laws, unions, and the ability to change jobs.
+
+        1.1.4.4.5. Pro:
+        Corporations can [43] and do collude [44] against worker's interests; implementing a UBI makes this significantly less likely to occur such that citizens live with a higher quality of life.
+
+  1.2. Con:
+  The government should not provide a UBI because it is immoral to do so.
+
+    1.2.1. Con:
+    The current global economic system is built [45] off of centuries of exploitation [46], aided [47] and abetted by governments. Wealth redistribution and a UBI is the only way to remediate this.
+
+      1.2.1.1. Pro:
+      Wealth has historically been extracted [48] from marginalized communities by governments under the threat of violence. A UBI, and the wealth redistribution associated with it, makes amends for this.
+
+      1.2.1.2. Pro:
+      The global stratification of resources and wealth has occurred due to historical exploitation and underdevelopment [49], a UBI drastically overhauls this system such that people can no longer benefit from past oppression.
+
+      1.2.1.3. Con:
+      Many countries face high levels of corruption (p. 3 [50]); if wealth is redistributed from the wealthiest nations to the poorest to fund a UBI, corruption may render this highly ineffective.
+
+      1.2.1.4. Con:
+      Current UBI doesn't address historical exploitation or provides compensation to those harmed in the past.
+
+        1.2.1.4.1. Pro:
+        Transferring wealth today from non-exploiters to non-exploited individuals by force is seen as a form of additional exploitation, without holding accountable those involved in historical exploitation who are no longer alive.
+
+    1.2.2. Pro:
+    Redistribution of wealth is theft, and is particularly egregious when done under the threat of force. The positive outcomes of that theft have no bearing [51] on its immorality.
+
+      1.2.2.1. Pro:
+      Taxation in theft [52] as it directly undermines people's right to property and the wealth they work hard to accrue.
+
+      1.2.2.2. Con:
+      Participating in a society necessitates [53] the sharing of resources to support the more vulnerable. This is reciprocity, not theft.
+
+        1.2.2.2.1. Con:
+        Welfare from government is corrupt and inefficient compared to letting churches [54], charities [55] and families care for the needy.
+
+        1.2.2.2.2. Pro:
+        Historically, cultures redistributed [56] wealth and resources to help others. A UBI merely continues this age-old tradition.
+
+      1.2.2.3. Con:
+      It is legitimate for states to use discretionary taxes as they wish, as citizens have no right [57] to their pre-tax income.
+
+    1.2.3. Con:
+    Governments have a moral duty [58] to provide for the welfare of its citizens. UBI meets this responsibility efficiently, providing good outcomes for the people.
+
+      1.2.3.1. Pro:
+      There is substantial evidence of the negative effects [59] of poverty and inequality on all of society, even the rich.
+
+      1.2.3.2. Pro:
+      The poorest half of the world population has less [60] than the wealthiest eight individuals. Redistribution that eradicates poverty would leave plenty of luxury remaining as it takes from those with more than they could ever need.
+
+      1.2.3.3. Con:
+      Capitalism already provides the means to raise yourself out of poverty; every country that has embraced capitalism has lower poverty rates [61] those that have not.
+
+  1.3. Pro:
+  A UBI is a more efficient and effective form of welfare than current government programs.
+
+    1.3.1. Con:
+    Government welfare systems are effective means of tackling social inequalities; abolishing them in favour of a UBI may mean that some of these unequal systems are entrenched (p. 2 [62]).
+
+      1.3.1.1. Pro:
+      Social inequalities have more complex cause [63]s than mere financial disparities; attempting to change wealth disparities without attending to the conditions that caused them initially may mean that wealth inquality endures.
+
+      1.3.1.2. Pro:
+      Under a UBI, relative poverty might increase (p. 17 [64]).
+
+        1.3.1.2.1. Pro:
+        With a UBI, some vulnerable groups - like children and lone parents - may be more likely [65] to experience poverty.
+
+        1.3.1.2.2. Con:
+        A UBI would create [66] a larger reduction in poverty than any proposed welfare policy in the past 60 years.
+
+        1.3.1.2.3. Con:
+        A UBI roughly equalises societal purchasing power, thereby reducing relative poverty. This makes it more feasible [67] to achieve a post-scarcity world [68].
+
+        1.3.1.2.4. Con:
+        Proportional tax systems [69] can ensure that the wealthy, who reap the vast majority of society's benefits, pay more in taxes than they would receive in a UBI.
+
+        1.3.1.2.5. Pro:
+        Governments with large debts and large spending deficits [70] are unlikely to be able to provide a UBI for their citizens. Thus, a UBI would only benefit the already privileged around the world.
+
+      1.3.1.3. Con:
+      With a UBI, people can meet their basic needs without working, so they may no longer be too tired [71] for politics [72]. As such, social change is likely to still occur.
+
+        1.3.1.3.1. Pro:
+        If people continue to work when they receive a UBI, they will have more income [73] to support their political engagement, increasing the rate of democratic participation.
+
+      1.3.1.4. Con:
+      A UBI eliminates the racial and other biases which often emerge in the administrative quagmire of non-universal welfare distribution (p. 1 [74]).
+
+    1.3.2. Pro:
+    Providing a UBI removes the stigma [75] associated with receiving welfare because everyone gets these payments.
+
+      1.3.2.1. Pro:
+      Welfare stigma can have significant mental health costs [76]; this may further compound people's suffering and make them less productive members of society.
+
+      1.3.2.2. Pro:
+      People are often deterred [77] from seeking welfare because of stigma, meaning that they unnecessarily live in destitution. Removing this stigma through a UBI is essential to creating a healthier society.
+
+      1.3.2.3. Con:
+      There are cheaper and more efficient [78] means of reducing welfare stigma than paying a living wage to all citizens.
+
+    1.3.3. Pro:
+    Means-tested welfare systems require [79] a lot of governmental administration and work, while a UBI is simple as everyone gets the same amount.
+
+      1.3.3.1. Pro:
+      The cost of delivering benefits can be quite high [80], undermining the amount of money that can be funnelled into payments themselves.
+
+      1.3.3.2. Con:
+      It is wasteful to give everyone money when only a small proportion [81] need it. Even if less is spent on administration, more is still spent on a UBI than other welfare systems.
+
+        1.3.3.2.1. Con:
+        Most UBI studies have shown a UBI would actually cost less [82] than current welfare programs, so, with a UBI, money could be put back into the economy to stimulate economic growth.
+
+      1.3.3.3. Con:
+      The complexity of welfare programs is appropriate as people have different needs [83] and, therefore, it is useful if welfare can target those needs specifically.
+
+      1.3.3.4. Pro:
+      The complexity of means-tested systems make them ripe with loopholes [84] and ways to get more than what you are entitled to.
+
+    1.3.4. Con:
+    A UBI is the wrong way to help those who need assistance, as it unfortunately rewards those that don't work hard as well as those that do.
+
+      1.3.4.1. Con:
+      People have value [85] beyond their labor outputs; UBI is the only means of recognising this.
+
+      1.3.4.2. Pro:
+      Existing programs, such as unemployment insurance, offer targeted benefits to deserving people to avoid rewarding those who free-ride [86] off of others, making society a better place.
+
+  1.4. Pro:
+  Providing a UBI recognises and supports those who contribute to society through work such as domestic labour and volunteering.
+
+    1.4.1. Pro:
+    Work like domestic labour is vital [87] for the functioning of society. A UBI provides appropriate compensation for this work that other income structures do not.
+
+      1.4.1.1. Con:
+      It would be better to provide wages for care and housework [88] than to spend significant amounts on a UBI for all.
+
+        1.4.1.1.1. Pro:
+        Providing wages specifically for care and housework would challenge sexist notions of biological predestination that coerce women into doing unpaid labour, acknowledging [89] that their toil is work.
+
+        1.4.1.1.2. Con:
+        Paying wages for house and care work encourages the silo-ing [90] of women in the domestic sphere, disempowering them further as they are kept out of political decision-making and other halls of influence.
+
+      1.4.1.2. Con:
+      There is no guarantee that women paid a UBI will actually be able to control and spend the money as they wish. Their partner may instead assume control of the money and spend it as they wish (p. 8 [91]).
+
+      1.4.1.3. Pro:
+      A UBI could compensate [92] non-waged care workers, alleviating the stress - both financial and mental - that can often come from providing this care.
+
+      1.4.1.4. Pro:
+      If a UBI is implemented, more children may have their parents stay at home [93] to care for them, strengthening the child-parent bond.
+
+    1.4.2. Con:
+    People should not be compensated for actions that only benefit themselves, such as housework.
+
+      1.4.2.1. Con:
+      Housework and garden work is a key aspect [94] of keeping a living area and neighborhood clean and approachable for all members of a community, making the world a better place.
+
+      1.4.2.2. Pro:
+      The completion of housework is a basic aspect of living well that does not produce any further goods for society. Thus, a wage is neither needed to incentivise it, nor to recognise the good it contributes to the world.
+
+      1.4.2.3. Con:
+      A UBI is not compensation for work, but rather an income provided based on the recognition [95] that a precondition for participation in society nowadays is adequate funds.
+
+    1.4.3. Pro:
+    Having a UBI could increase volunteer support for nonprofit organizations, as people can reduce [96] their paid workload to spend more time working on passion projects.
+
+      1.4.3.1. Pro:
+      Volunteering rates [97] decrease with economic downturns as people must forego helping others to meet their own needs. Thus, a UBI would likely increase volunteering.
+
+      1.4.3.2. Con:
+      Few people spend their leisure time [98] volunteering, this is unlikely to change with the introduction of a UBI as people may opt to just do more lavish versions of their current hobbies.
+
+      1.4.3.3. Con:
+      It would be better to fund or increase the rewards [99] associated with volunteer-supported organizations so they can recruit more people more reliably, than seek to pay everyone a UBI.
+
+      1.4.3.4. Pro:
+      Lots of people are interested in volunteering [100], a UBI allows them to do this without impinging on their quality of life.
+
+    1.4.4. Con:
+    UBI is intended to be a minimal income and so receipt of it is unlikely to be perceived as recognition for one's hard work.
+
+      1.4.4.1. Pro:
+      As everyone receives a UBI, it does not follow that people will attribute more value to the completion of previously unpaid labor. Instead, sexist divisions [101] of labor that mean women work the second shift [102] may remain.
+
+      1.4.4.2. Con:
+      Even if women's typically unpaid work is not perceived to be more valuable with a UBI, they would be in a stronger financial position such that they could leave [103] abusive households more easily or have more autonomy within the home.
+
+Sources:
+[1] https://impact.economist.com/sustainability/circular-economies/economic-growth-will-continue-to-provoke-climate-change
+"Understanding that prioritising GDP is not only environmentally harmful, but ineffective in bringing about equitable well-being, many countries are turning to alternate measures such as the Genuine Progress Indicator and the OECD Well-being Framework. Bhutan has pursued Gross National Happiness for decades; Bolivia and Ecuador have incorporated world-views known as Buen Vivir into national constitutions and governance; and the Wellbeing Economy Alliance unites leaders of Finland, Iceland, New Zealand, Scotland and Wales in pledges to prioritise the well-being of people and planet."
+[2] https://www.cnbc.com/2021/05/18/20-companies-responsible-for-55percent-of-single-use-plastic-waste-study.html
+"Single-use plastics, such as bottles, bags and food packages, are the most commonly discarded type of plastic. Made almost exclusively from fossil fuels, these “throwaway” plastics often end their short lifecycle polluting the oceans, being burned or dumped into landfills.
+
+The study says 20 petrochemical companies are responsible for 55% of the world’s single-use plastic waste."
+[3] https://www.imd.org/ibyimd/finance/happy-people-happy-economy-moving-beyond-gdp-in-measuring-economic-success-in-2022/
+"Bhutan’s legal code of 1729 stated that, “If the government cannot create happiness for its people, then there is no purpose for government to exist.” It stressed that Bhutanese laws must promote happiness for all sentient beings and, as a predominantly Buddhist nation, it was clear to the king that the cultivation of compassion stemmed from this ancient wisdom. The focus needed to be not only on the economic progress of Bhutan, but on a “flourishing human society living in harmony with nature.”"
+[4] https://www.wider.unu.edu/publication/why-should-i-care-about-economic-growth
+"When economies grow, states can tax that revenue and gain the capacity and resources needed to provide the public goods and services that their citizens need, like healthcare, education, social protection and basic public services.
+
+Further to benefits provided by the state, inclusive growth brings wider material gains. Growth creates wealth, some of which goes directly into the pockets of employers and workers, improving their wellbeing. As people earn higher incomes and spend more money, this enables people to exit poverty and gain improved living standards."
+[5] https://www.vox.com/policy-and-politics/2017/8/30/16220134/universal-basic-income-roosevelt-institute-economic-growth
+"They find that enacting any of these policies by growing the federal debt — that is, without raising taxes to pay for it — would substantially grow the economy. The effect fades away within eight years, but GDP is left permanently higher. The big, $12,000 per year per adult policy, they find, would permanently grow the economy by 12.56 to 13.10 percent — or about $2.5 trillion come 2025. It would also, they find, increase the percentage of Americans with jobs by about 2 percent, and expand the labor force to the tune of 4.5 to 4.7 million people."
+[6] https://www.investopedia.com/terms/m/multipliereffect.asp
+"The multiplier effect is the proportional amount of increase or decrease in final income that results from an injection or withdrawal of spending."
+[7] https://www.theguardian.com/business/2017/aug/04/ten-years-on-voters-say-labors-52bn-stimulus-saved-australia-from-recession
+"Ten years on from the global financial crisis, Australian voters are comfortable that the $52bn stimulus package launched by the then Labor government, while politically controversial at the time, kept the country out of recession.
+
+A new poll commissioned by the progressive thinktank, the Australia Institute, in cooperation with Labor’s Chifley Institute, finds 62% of a sample of 1,408 voters believe the stimulus package kept Australia out of recession in contrast to other major developed economies."
+[8] https://www.investopedia.com/insights/what-is-the-balance-of-payments/
+"he balance of payments (BOP) is the method countries use to monitor all international monetary transactions in a specific period. The BOP is usually calculated every quarter and every calendar year.
+
+All trades conducted by both the private and public sectors are accounted for in the BOP to determine how much money is going in and out of a country. If a country has received money, this is known as a credit, and if a country has paid or given money, the transaction is counted as a debit.
+
+Theoretically, the BOP should be zero, meaning that assets (credits) and liabilities (debits) should balance, but in practice, this is rarely the case. Thus, the BOP can tell the observer if a country has a deficit or a surplus and from which part of the economy the discrepancies are stemming."
+[9] https://link.springer.com/article/10.1007/s11187-018-0005-9
+"Corporate taxes show a negative relationship with innovative entrepreneurship, whereas income taxes seem to show no relationship. High start-up costs seem to have a positive relationship with innovative entrepreneurship, although this finding seems to only hold true in cross-sectional and not in longitudinal investigations."
+[10] http://money.cnn.com/2017/07/26/news/economy/venezuela-economic-crisis/index.html
+"Inflation is only getting worse. In 2010, one American dollar was worth about eight bolivars. Today it's worth over 8,000 bolivars, according to the unofficial exchange rate, which many Venezuelans use because government rates are considered far overvalued. Prices could rise an astounding 2,000% next year.
+
+To keep up, Maduro has raised the minimum wage three times this year. That has provided a little short-term relief to the poor, but experts say it creates long-term pain in the form of a worthless currency."
+[11] https://ellenbrown.com/2017/10/03/how-to-fund-a-universal-basic-income-without-increasing-taxes-or-inflation/
+"As Prof. Stiglitz observes, the money issued by the government will return to it simply through an increase in fiscal revenues generated by the UBI itself.
+
+This is due to the “velocity of money” – the number of times a dollar is traded in a year, from farmer to grocer to landlord, etc. In a good economy, the velocity of the M1 money stock (coins, dollar bills, demand deposits and checkable deposits) is about seven; and each recipient will pay taxes on this same dollar as it changes hands. According to the Heritage Foundation, total tax revenue as a percentage of GDP is now 26 percent. Thus one dollar of new GDP results in about 26 cents of increased tax revenue. Assuming each of the seven trades is for taxable GDP, $1.00 changing hands seven times can increase tax revenue by $7.00 x 26 percent = $1.82. In theory, then, the government could get more back in taxes than it paid out."
+[12] https://www.forbes.com/sites/qai/2022/09/14/how-to-fix-inflation-beyond-just-raising-interest-rates/
+"The government can use fiscal policy to fix inflation by increasing taxes or cutting spending. Increasing taxes leads to decreased individual demand and a reduction in the supply of money in the economy. As you can imagine, fiscal policy isn’t very popular because raising taxes is a difficult political move. The last thing that we want to hear when inflation is rising is that our taxes will also increase.
+
+The government could use other fiscal policies to lower inflationary pressures. If Congress were to limit pandemic relief spending and focus on not making the deficit worse, that would assist in reducing inflation."
+[13] https://deliverypdf.ssrn.com/delivery.php?ID=589112090009123107125007093120065064031038028079005001126106080005088004068027072031100048097039026028033107107066090026092117017001002076092012091100126113081123080054048004020023116002006065095123091024011115067029003095002068071091031071069004117125&EXT=pdf&INDEX=TRUE
+"This overall aligns with my model; that is that is, cash transfers caused growth in both permanent output and output level and almost-nonexistent price change. This checks out intuitively: an increase in income resulted in more consumption and more output in an economy that has room to grow, so there will not be additional money-per-unit-of-output that ultimately underlies the Quantity Theory of Money."
+[14] https://www.investopedia.com/ask/answers/111314/what-methods-can-government-use-control-inflation.asp
+"Governments can use wage and price controls to fight inflation.
+ These policies fared poorly in the past, leading governments to look elsewhere to control the economy.
+ Governments may pursue a contractionary monetary policy, reducing the money supply within an economy.
+ The U.S. Federal Reserve implements contractionary monetary policy through higher interest rates and open market operations.
+ The Fed used reserve requirements to manage the nation's money supply but dropped these limits until further notice."
+[15] https://www.economicsobservatory.com/how-does-the-housing-market-affect-wealth-inequality
+"Research suggests that this approach – using home ownership to strengthen household capital formation and spread it more equally – was successful until the late 1970s.
+
+But in the decades since then, rising house prices – particularly relative to incomes – have made savings from working largely insufficient to buy a home. This is especially the case for lower-income individuals and for those without family wealth to help raise a deposit.
+
+This has had consequences for social mobility (the extent to which young people’s opportunities in life are affected by their family backgrounds) and long-term wealth accumulation – concentrating wealth among older groups and in metropolitan areas."
+[16] https://www.businessinsider.com/this-chart-shows-how-quickly-college-tuition-has-skyrocketed-since-1980-2015-7
+"The average annual increase in college tuition from 1980-2014 grew by nearly 260% compared to the nearly 120% increase in all consumer items.
+
+In 1980, the average cost of tuition, room and board, and fees at a four-year post-secondary institution was $9,438, according to the Department of Education. That number has since climbed to $23,872.
+
+One explanation for this trend is that students, rather than state governments, are absorbing more of the costs of college, according to the Washington Post."
+[17] https://www.ubiworks.ca/blog/basic-income-inflation
+[18] https://blogs.lse.ac.uk/politicsandpolicy/covid19-support-ubi/
+"Does this mean that governments should be looking to introduce UBI-style schemes? Our study, which is about public opinion, cannot answer those kinds of questions. But it can suggest that any party that does seriously advocate a UBI for these times might find the populace, in the UK and USA, suddenly and substantially more receptive than before. There are multiple reasons why politicians might want to this anyway. For example, Caroline Bentham has persuasively argued on this blog that direct cash transfers to every citizen are a sensible strategy to kick-start the UK economy. Such transfers need cost no more than the quantitative easing that will otherwise happen, they would be at least as effective, and much more equitable. The US Treasury, with its $1200 cheques to almost everyone, has already taken this path. Short-term cash transfers are not yet UBI, but they establish an interesting precedent."
+[19] https://www.investopedia.com/terms/n/negativeincometax.asp
+"Negative income tax (NIT) is an alternative to welfare suggested by, among other proponents, economist Milton Friedman in his 1962 book Capitalism and Freedom. NIT proponents assert that every American without income above the threshold for tax liability should have a basic income guarantee and that NIT is a means to subsidize the needy at less cost than the welfare system."
+[20] https://mitsloan.mit.edu/ideas-made-to-matter/negative-income-tax-explained
+"Some of the results from the experiments showed that there was a modest reduction of work among recipients, especially among primary income earners. However, this generally only amounted to the equivalent of two to four weeks a year, and for some people, it was due to pursuing educational opportunities.
+
+Another often discussed report concluded that receiving a negative income tax increased divorce rates."
+[21] https://www.theguardian.com/sustainable-business/2015/apr/20/taxpayers-spend-11bn-to-top-up-low-wages-paid-by-uk-companies
+"Research published last week by Citizens UK found that companies in the UK are paying their workers so little that the taxpayer has to top up wages to the tune of £11bn a year. The four big supermarkets (Tesco, Asda, Sainsburys and Morrisons) alone are costing just under £1bn a year in tax credits and extra benefits payments.
+
+This is a direct transfer from the rest of society to some of the largest businesses in the country. To put the figure in perspective, the total cost of benefit fraud last year was just £1bn. Corporate scrounging costs 11 times that."
+[22] https://www.investopedia.com/financial-edge/0512/how-large-corporations-get-around-paying-less-in-taxes.aspx
+"It is not unusual for large U.S. corporations to pay no U.S. income taxes despite making billions of dollars in profits. In fact, one study of corporate securities filings found 55 of America's largest companies paid no income taxes in 2020 despite generating hefty profits, while netting $3.5 billion in aggregate tax rebates. Nearly half of those companies paid no U.S. income taxes for three successive years."
+[23] https://www.etui.org/publications/labour-shortages-turning-away-bad-jobs
+"In summary, this policy brief highlights one key aspect of the current labour shortage, namely that it has become progressively worse in sectors providing relatively worse jobs. The current shortage may then turn out to be a shortage of people willing to work strenuous and badly remunerated jobs. The pandemic may have exacerbated this unwillingness to put up with worse positions."
+[24] https://www.vox.com/policy-and-politics/2017/7/20/15821560/basic-income-critiques-cost-work-negative-income-tax
+"Just dropping out of the workforce entirely to veg out and do nothing — to become, in the words of basic income advocate Philippe van Parijs, a “Malibu surfer” — isn’t really appealing to most people. People like the sense of purpose that work gives them, the status it gives them in their community and with friends and romantic partners; they like being social during the day rather than staying at home and watching TV (probably the only leisure most people could afford if a basic income were their only source of money). Indeed, Calnitsky and Latner find that in Canada's experiment, “no qualitative account provides any evidence, even if stretched, which could be construed as documentation of the ‘Malibu surfer.’”"
+[25] https://www.theguardian.com/commentisfree/2019/feb/12/universal-basic-income-work-finland-experiment-payments
+"Preliminary results from Finland’s basic income experiment found little to no impact on recipients’ likelihood of undertaking paid employment. This has led some to suggest that the experiment is a failure – indeed, the Finnish government had hoped the plan would increase participation in paid work. However, although it was not a trial of a full UBI (universal, unconditional, non-withdrawable and non means-tested) it is being celebrated by many who advocate the idea, as it provides important evidence about the interaction of UBI and work. One of the major objections is that getting “free money” would undermine recipients’ motivation to undertake paid work: the Finnish case shows this is not so."
+[26] https://www.health.harvard.edu/staying-healthy/working-later-in-life-can-pay-off-in-more-than-just-income
+"We do know that staying mentally, socially, and physically active — which working may enable you to do — is good for health.
+
+Mental stimulation and problem solving are good for maintaining thinking skills; social engagement is associated with staving off chronic disease; and staying physically active, even if it's just walking, can lead to both better health and sharper thinking skills.
+
+Does that mean you should keep working? "Yes, if you can," says Maestas. "But be smart about what you're doing. Don't stay in a job you hate. Try to find something that's meaningful and gives you purpose. If you're happy at work, that's one sign that work may be good for your health.""
+[27] https://www.ceicdata.com/en/indicator/saudi-arabia/labour-force-participation-rate
+"Saudi Arabia Labour Force Participation Rate is updated quarterly, available from Jun 2016 to Mar 2023, with an average rate of 58.3 % . The data reached the an all-time high of 61.7 % in Mar 2023 and a record low of 54.2 % in Jun 2017. Saudi Arabia Labour Force Participation Rate is reported by reported by CEIC Data."
+[28] http://www.arabnews.com/node/1201861/saudi-arabia
+"The undersecretary said that the Saudi labor market is considered the fourth largest in the world, where the number of domestic workers is about 2.3 million workers."
+[29] https://www.bath.ac.uk/publications/basic-income-automation-and-labour-market-change/attachments/Basic_income-automation-labour-market-change.pdf
+"In light of the cumulative technological developments – especially with the kinds of productivity gains imagined under circumstances of exponential increases in computing power – the magnitude of this entitlement could conceivable grow to a very significant degree. In a more functionalist sense, a declining labour share of value is also problematic because of the relative propensities of labour and capital to spend money in the economy, and thus contribute to demand multiplier effects. A basic income would inject demand into the economy in much the same way as quantitative easing, only more effective and far more egalitarian."
+[30] https://iea.org.uk/universal-basic-income-a-pointless-trial-of-a-bad-idea/
+"When incomes rise, people buy more leisure (among other things). In other words, they work less. Imagine someone who now works 20 hours of overtime a week to increase her income by £400 a month. Give her £1,600 a month, and she will be inclined to reduce her overtime."
+[31] https://psyche.co/ideas/why-do-so-many-people-think-they-are-in-a-bullshit-job
+"Published in one of the British Sociological Association’s journals – Work, Employment and Society – in July, now another study has come along and it suggests that, although factors such as alienation are important, there really do seem to be certain occupations that people report being more useless than others and, what’s more, they align with the categories of bullshit jobs that Graeber proposed."
+[32] https://www.forbes.com/sites/miltonezrati/2019/01/15/universal-basic-income-a-thoroughly-wrongheaded-idea/
+"This new Congress will almost surely hear about schemes to provide a universal basic income (UBI) – the idea that the government would give each person a minimum monthly sum regardless of circumstances or need. UBI has gained considerable popularity of late, certainly among left leaning politicians but also among several celebrity business people in Silicon Valley and elsewhere. Though in some contexts the idea has a surface appeal, it is otherwise wrongheaded. It would steal resources from those truly in need for broader distribution. It would effectively warehouse people who might otherwise find ways to contribute to society and do so at great cost."
+[33] https://www.csmonitor.com/World/Global-News/2016/0605/Guaranteed-basic-income-Why-Switzerland-said-No-thanks
+"“If you pay people to do nothing, they will do nothing,” Charles Wyplosz, an economics professor at the Geneva Graduate Institute, told AFP."
+[34] https://www.cato.org/blog/why-all-labor-force-dropouts
+"Labor‐force participation fell substantially after the crisis, contributing 2.5 percentage points to the shortfall in output. The decline showed no sign of reverting as of 2013. Part is demographic and will stabilize, and part reflects low job‐finding rates, which should return to normal slowly. But an important part may be related to the large growth in beneficiaries of disability and food‐stamp programs. Bulges in their enrollments appear to be highly persistent. Both programs place high taxes on earnings [emphasis added] and so discourage labor‐force participation among beneficiaries. The bulge in program dependence … may impede output and employment growth for some years into the future."
+[35] https://cps.org.uk/research/welfare-dependency-falls-but-still-much-further-to-go/
+"Welfare dependency is an economically destructive phenomenon which tears at Britain’s social fabric. It reduces the incentive to work and earn more whilst keeping people trapped in a cycle of low aspirations, low productivity and low pay. The welfare state must protect the vulnerable and encourage self-reliance but for too many households it has become a permanent trap."
+[36] http://www.bignam.org/Publications/BIG_Assessment_report_08b.pdf
+"The introduction of the BIG has led to an increase in economic activity. The rate of those engaged in income-generating activities (above the age of 15) increased from 44% to 55%. Thus the BIG enabled recipients to increase their work both for pay, profit or family gain as well as self-employment. The grant enabled recipients to increase their productive income earned, particularly through starting their own small business, including brick-making, baking of bread and dress-making. The BIG contributed to the creation of a local market by increasing households' buying power. This finding contradicts critics' claims that the BIG would lead to laziness and dependency."
+[37] https://www.nber.org/papers/w13756
+"In a cross-section of countries, our estimates of the effective corporate tax rate have a large adverse impact on aggregate investment, FDI, and entrepreneurial activity. For example, a 10 percent increase in the effective corporate tax rate reduces aggregate investment to GDP ratio by 2 percentage points. Corporate tax rates are also negatively correlated with growth, and positively correlated with the size of the informal economy. The results are robust to the inclusion of controls for other tax rates, quality of tax administration, security of property rights, level of economic development, regulation, inflation, and openness to trade."
+[38] https://www.sydney.edu.au/business/news-and-events/news/2018/10/01/what-s-up-with-universal-basic-income-.html
+"Marxists, ‘Scandinavian’ model. In our industrialised societies, workers are alienated from both the bounty and the joy of their labours. Many jobs involve menial work that provides no meaning – you don’t have to be a Marxist to believe that a worker in an Amazon warehouse or a large office bureaucracy could be a modern-day embodiment of an alienated worker. A UBI would free people to pursue creative ideas or to take up volunteering or entrepreneurial roles that offer meaning but are not financially sustainable."
+[39] https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-Universal-Basic-Income-A-Working-Paper.pdf
+[40] https://www.independent.co.uk/news/business/news/universal-basic-income-finland-useless-says-trade-union-a7571966.html
+"Not only does SAK say that the system may reduce the labour force — for instance by tempting mothers of small children or those close to retirement to take more time off — but the union also suggests that making it easier to refuse unpleasant jobs may create inflationary bottlenecks.
+
+In any case, the model being tasted in Finland is “impossibly expensive, since it would increase the government deficit by about 5 per cent” of gross domestic product, said Kaukoranta."
+[41] https://www.newdawnpartners.com/rule-no-10-be-prepared-to-walk-away-from-the-table-without-a-deal
+"There is nothing quite so empowering to a negotiator that knowing that they can walk away from the deal if necessary. This hugely important factor enables them to be assertive on their goals, confident that if an acceptable deal is not reached, they have an alternative option."
+[42] https://www.traverssmith.com/knowledge/knowledge-container/getting-tough-on-corporate-abuse-the-economic-crime-and-corporate-transparency-act-passes-into-law/
+"The ECCTA gives greater powers to the Registrar of Companies to act as gatekeeper for the integrity of the register by querying filings and requiring further information. The ECCTA also contains provisions requiring verification of identity for company directors and others, new rules intended to improve the financial information on the register, and various other changes which aim to "prevent organised criminals and kleptocrats from abusing our open economy"."
+[43] https://knowledge.wharton.upenn.edu/article/silicon-valleys-poaching-case-growing-debate-employee-mobility/
+"When Apple, Google, Intel and Adobe Systems last week agreed to settle a lawsuit accusing them of conspiring to prevent the hiring of each other’s employees, they avoided having to testify in court and risk a public glimpse into their strategies. Yet, the case has provoked a heated debate on the damage that no-poaching agreements cause.
+
+The class action lawsuit accused the four Silicon Valley companies of conspiring, between 2005 and 2009, to avoid hiring each other’s employees – a practice that the lawsuit says resulted in lower salaries for the affected individuals. About 64,000 employees of those companies sought $3 billion in damages, which would have risen to $9 billion under antitrust law. Estimates are that the companies agreed to settle the case for about $325 million, although they did not formally disclose that figure."
+[44] https://www.concurrences.com/en/bulletin/special-issues/no-poach-agreements/no-poach-agreements-an-overview-of-eu-and-national-case-law?id_rubrique=4388
+"No-poach agreements have received increased attention by competition authorities, especially in the United States, as part of a broader movement to address anticompetitive behavior by employers in labor markets. A no-poach agreement is an agreement between employers not to hire away each other’s employees."
+[45] https://www.aljazeera.com/opinions/2021/5/6/rich-countries-drained-152tn-from-the-global-south-since-1960
+"Recent research demonstrates that rich countries continue to rely on a large net appropriation from the global South, including tens of billions of tonnes of raw materials and hundreds of billions of hours of human labour per year – embodied not only in primary commodities, but also in high-tech industrial goods like smartphones, laptops, computer chips and cars, which over the past few decades have come to be overwhelmingly manufactured in the South.
+
+This flow of net appropriation occurs because prices are systematically lower in the South than in the North. For instance, wages paid to Southern workers are on average one-fifth the level of Northern wages. This means that for every unit of embodied labour and resources that the South imports from the North, they have to export many more units to pay for it."
+[46] https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/wealth-disparities-in-civil-rights/barriers-to-racial-wealth-equality/
+"In the United States, racial wealth inequality, particularly the Black-white wealth gap, is massive. In 2019, the median wealth for white households was $188,200, compared to $24,100 and $36,100 for Black and Hispanic households, respectively. To better understand the ongoing persistence of this racial wealth inequality, we outline several historical and contemporary mechanisms that have predominantly supported wealth accumulation for white Americans and/or impeded or exploited wealth opportunities for Black Americans."
+[47] https://www.tbsnews.net/features/book-review/recent-coups-africa-why-walter-rodneys-how-europe-underdeveloped-africa-still
+"In a nutshell, Rodney shows that African underdevelopment is not a natural progression of its pre-existing economy and social systems; rather it is a direct product of Europe's slave trade and plunder of the continent's natural resources that in turn paved the foundation of development of Europe."
+[48] https://www.brookings.edu/articles/why-we-need-reparations-for-black-americans/
+"In 1860, over $3 billion was the value assigned to the physical bodies of enslaved Black Americans to be used as free labor and production. This was more money than was invested in factories and railroads combined. In 1861, the value placed on cotton produced by enslaved Blacks was $250 million. Slavery enriched white slave owners and their descendants, and it fueled the country’s economy while suppressing wealth building for the enslaved. The United States has yet to compensate descendants of enslaved Black Americans for their labor. Nor has the federal government atoned for the lost equity from anti-Black housing, transportation, and business policy. Slavery, Jim Crow segregation, anti-Black practices like redlining, and other discriminatory public policies in criminal justice and education have robbed Black Americans of the opportunities to build wealth (defined as assets minus debt) afforded to their white peers."
+[49] https://www.studysmarter.co.uk/explanations/social-studies/global-development/global-inequality/
+"On the other hand, Dependency Theory and world systems theory, both Marxist theories of development, understand underdevelopment and global inequality as a consequence of external, political and historical causes.
+
+From this perspective, the causes of global inequality are linked to the exploitation of developing countries' natural resources and labour by developed nations.
+
+Specifically, exploitation occurs through the legacy of colonialism and neo-colonial policies brought in by modernisation principles and a capitalist global economic system."
+[50] https://www.transparency.org/files/content/corruptionqas/Impact_of_corruption_on_growth_and_inequality_2014.pdf
+"The impact of corruption on levels of investment holds true for foreign direct investment (FDI), as reflected in a 2010 paper summarising the state of research on corruption and FDI. Wei also finds corruption to be a significant factor in reducing FDI in the host country. A 2008 study, looking at US FDI outflows in relation to levels of corruption in 42 host countries, also indicates that US firms are less likely to invest in countries where corruption is widespread. Consistent with these findings, other studies have confirmed FDI to be positively correlated with governance
+indicators such as rule of law, control of corruption, regulatory quality, etc."
+[51] https://www.libertarianism.org/columns/is-taxation-theft
+"“Taking without consent” includes taking by means of a threat of force issued against other people, as in this example. This fact is not altered by what I do with the money after taking it. You wouldn’t say, “Oh, you gave the money to the poor? In that case, taking people’s property without consent wasn’t theft after all.” No; you might claim that it was a socially beneficial theft, but it was still a theft.
+
+Now compare the case of taxation. When the government “taxes” citizens, what this means is that the government demands money from each citizen, under a threat of force: if you do not pay, armed agents hired by the government will take you away and lock you in a cage. This looks like about as clear a case as any of taking people’s property without consent. So the government is a thief."
+[52] https://libertarianchristians.com/2016/10/11/taxation-is-theft-yes-really/
+"Taking someone’s property by force is a basic violation of property rights, and property rights is an essential framework within both Christian worldview and libertarianism. Whether theft is legal or not, whether the one being stolen from is wealthy or not, and so on, doesn’t change the basic nature of what is happening. This is not to suggest that there are no lines, conditions, or qualifiers with regard to what is and is not “stealing.” Obviously, not everything perceived or labeled as stealing necessarily is. The difference, it seems, is where one draws the circle for “theft.” Some hold to a larger range of what qualifies, while others a smaller range, excluding taxation and perhaps other things. The merits of each view have to be weighed and evaluated."
+[53] https://www.theguardian.com/business/2013/may/22/paying-tax-absolutely-moral-issue
+"A great many ordinary people see payment – or rather non-payment – of tax as fundamentally a moral question. Perhaps it might be talked about as justice or fairness, but it boils down to the same thing. Christian Aid supporters have been campaigning on matters of tax justice for five years.
+
+At the heart of their concern is the moral question of how societies raise revenues and how that money is spent. We estimate that developing countries lose around $160bn a year in tax revenue from multinational corporations. Contrast this with the UK's aid budget (£12bn) or the UN's Food and Agriculture Organisation's estimated cost of tackling global hunger ($50bn a year on top of existing funding to 2025). The fact that tonight one in eight people in the world will go to bed hungry shows that the moral case for a fair and just taxation system is undeniable."
+[54] https://fee.org/articles/christian-charity-vs-government-welfare/
+"Government welfare programs, even those providing temporary relief, are in complete opposition to, and destructive of, acts of Christian charity and are totally inconsistent with Christian tra­dition.
+
+One of the fundamental tenets of the Christian church is that the human is a creature possessing free will. It is because of the Christian recognition that man has control over his actions by means of his own will, that he is considered responsible for all of his actions. (Our system of juris­prudence is built upon this foun­dation.) It is also held that for a Christian to perform an act of charity and to gain the spiritual rewards for this act, it must be performed by the deliberate intent of the individual. An act of char­ity—an act of helping those in need—can only be a Christian act when it involves the application of free will."
+[55] https://fee.org/articles/how-does-government-welfare-stack-up-against-private-charity-it-s-no-contest/
+"Private charities, on the other hand, give over 70% of their proceeds to the poor. There are a ton of really good examples of this, like Feeding America, which can turn $1 into a shocking 12 pounds of food for the poor, or ten large meals.
+
+In fact, raising half as much money from voluntary private charity instead of forced taxation is estimated to produce the same impact as the government, if not more."
+[56] https://www.worldeconomicsassociation.org/newsletterarticles/polanyi-justice/
+"From the empirical evidence of economic life in ancient times and primitive economies, Polanyi explained the concepts of reciprocity and redistribution. In early societies, men value those material goods that serve the end to promote protection and social standing. The reciprocity principle implied that in some early societies there was an unspoken agreement and, on behalf of it, people produced goods and services for which they could do best and shared them with those people that lived around who also behave alike. All of them contributed according to their abilities to the common welfare, and all shared according to their needs. Their motivation to produce and share was not the economic motive, but the fear of loss of social prestige. The redistribution principle was found in those societies where a chief or leader, after a harvest or a hunting expedition, redistributed the storage to members of his group."
+[57] https://academic.oup.com/book/47090/chapter-abstract/415903001?redirectedFrom=fulltext
+"It is argued that the latter two theories are more plausible than the first, whilst only right-libertarianism can ensure a moral claim on one’s pre-tax income. However, even if right-libertarianism is true, a person has a moral claim on their pre-tax income only if they live in the kind of society advocated by right-libertarianism, as opposed to the real world. Hence, nobody living in the real world has a moral claim on their pre-tax income."
+[58] https://www.scu.edu/mcae/publications/iie/v8n3/welfare.html
+"But freedom, argue welfare proponents, means nothing if people do not have the ability to exercise it. To do that, they need a minimum level of well-being.
+
+This position proceeds from a conviction that people have dignity based on their ability to choose. As a minimal condition for making these choices, people must have all of their basic needs met. For example, a homeless person's job choices might be constrained by the lack of an address for correspondence or even a place to take a shower.
+
+Welfare, proponents say, does not decrease people's motivation to work, as Gingrich argues. Rather, it gives them the opportunity to participate more productively in their society."
+[59] https://www.equalitytrust.org.uk/resources/the-spirit-level
+"The Spirit Level: Why More Equal Societies Almost Always Do Better was published in 2009. Written by Kate Pickett and Richard Wilkinson, the book highlights the "pernicious effects that inequality has on societies: eroding trust, increasing anxiety and illness, (and) encouraging excessive consumption". It shows that for each of eleven different health and social problems: physical health, mental health, drug abuse, education, imprisonment, obesity, social mobility, trust and community life, violence, teenage pregnancies, and child well-being, outcomes are significantly worse in more unequal rich countries."
+[60] https://www.theguardian.com/global-development/2017/jan/16/worlds-eight-richest-people-have-same-wealth-as-poorest-50
+"The world’s eight richest billionaires control the same wealth between them as the poorest half of the globe’s population, according to a charity warning of an ever-increasing and dangerous concentration of wealth.
+
+In a report published to coincide with the start of the week-long World Economic Forum in Davos, Switzerland, Oxfam said it was “beyond grotesque” that a handful of rich men headed by the Microsoft founder Bill Gates are worth $426bn (£350bn), equivalent to the wealth of 3.6 billion people."
+[61] https://www.lovemoney.com/gallerylist/70490/worlds-richest-countries-with-the-highest-poverty-levels
+[62] https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---soc_sec/documents/publication/wcms_648602.pdf
+"Concerns have been additionally expressed that UBI may be used to dismantle welfare states, privatize social security and public services; further, some argue that “UBI isn’t an alternative to neoliberalism, but an ideological capitulation to it”. Last, but not least, critics also contend that a uniform amount of UBI cannot adequately respond to specific needs, such as of persons with disabilities and older persons."
+[63] https://study.com/academy/lesson/what-is-social-inequality-in-sociology-definition-effects-causes.html
+"The causes of social inequality include:
+
+ Society's acceptance of roles
+ Stereotyping
+ Social organization by class (or class systems) and economic disparity: the wealthy are often liberal in their views on social support while being conservative in their views on economics.
+ Legislation and political inequality: unemployment is often blamed on society but it may have stemmed from legislation."
+[64] https://www.centreforsocialjustice.org.uk/wp-content/uploads/2018/08/CSJ_UBI_August-2018.pdf
+"Robert Greenstein castigates this notion that UBI should redirect savings from cutting services to a UBI that would be paid out to higher income individuals, “If you take the dollars targeted on people in the bottom fifth or two-fifths of the population and convert them to universal payments to people all the way up the income scale, you’re redistributing income upward. That would increase poverty and inequality rather than reduce them”. There is little doubt therefore that (an affordable) UBI raises more problems in terms of equitable distribution of resources across society than it would hope to solve."
+[65] https://www.jrf.org.uk/report/universal-basic-income-good-idea
+"The specific design of UBI significantly impacts the distribution of winners and losers, and increases or decreases in poverty amongst different groups. Some proposals result in higher poverty for some groups than under the current social security system. One version with UBI payments based mainly on current benefit levels (funded by increasing tax rates by three percentage points and abolishing the tax-free personal allowance and National Insurance thresholds) would reduce poverty overall but lead to higher poverty rates for children and lone parents. Around 20% of people in the poorest fifth would lose more than 5% of their income (despite the scheme being highly redistributive overall)."
+[66] https://www.york.ac.uk/news-and-events/news/2022/research/basic-income-could-cut-poverty/
+[67] https://nyunews.com/2017/09/11/a-post-scarcity-society-is-possible/
+"For example, we have an extreme overabundance of housing. If every homeless person in the United States were given an equal portion of the current number of unoccupied houses, they would each receive five houses, with 1.4 million houses left over. This is all based on data provided by the U.S. census. Luckily, we can easily feed all these homeless people, because we already produce enough food to feed 10 billion people, 2.5 billion more people than the current population. If we changed our habits to be less meat oriented, this number could as much as double. This is done at an extremely low labor cost. The United States, one of the leading producers of food, has only two percent of people working in agriculture."
+[68] https://www.coindesk.com/policy/2021/10/27/we-are-already-living-in-a-post-scarcity-world/
+"While progress may be uneven, it is increasingly clear that many of us are starting to live – at least partially – in a post-scarcity world of unlimited supply. Futurists have talked about this possibility for so long, and it has seemed so far away, that we may be failing to observe its slow but steady arrival. In science fiction, this abundant future is often shown as a place of unlimited physical products, but it’s actually arriving as an era of unlimited digital services and ever cheaper, but not free, products. As a result, the future is sneaking up on us nearly unnoticed. For all human history, scarcity was the condition where we lived. Scarcity of food, shelter, warmth, education – whatever it was, there was never enough of it to go around.
+
+For many, the world looks different today. More and more of what we consume has an effectively infinite supply."
+[69] https://www.lemonde.fr/en/opinion/article/2022/06/29/with-a-proportional-income-tax-the-best-universal-basic-income-can-be-more-generous_5988397_23.html
+"We find that a UBI and a tax reform that moves from the current progressive taxes to a proportional income tax can do better. A proportional tax provides stronger incentives for work and savings than a progressive income tax. As a result, it is possible to collect more taxes and expand the size of the transfers."
+[70] https://voxdev.org/topic/public-economics/combating-poverty-developing-countries-universal-basic-income
+"This renders the scope of a UBI more limited in a developing country setting, as funding is a challenge given the limited tax-base. Furthermore, the tax base often excludes some affluent sections of society. Therefore unless a UBI is funded through indirect taxes or taxes on capital gains this also raises concerns about fairness. For example, in India, agricultural income is legally tax-free and the informal sector, where most people are employed, is also beyond the reach of the income-tax system.
+
+It might seem that developed countries can afford any form of extra expenditure better - not only do they have a wider tax-base, they are also richer."
+[71] https://www.npr.org/sections/theprotojournalist/2014/07/25/334101621/the-diagnosis-politics-fatigue-syndrome
+"Historically, one of the salient symptoms is extreme lethargy. A while back, a reporter from the Atlanta Constitution noted that there was not much interest in the congressional elections in New Hampshire: "The people are utterly tired of politics." The year was 1877.
+
+Another is headaches. "Don't talk to me about politics. They're a headache. The heck with it," George Upton Harvey, a New York City borough president, told the Hartford Courant in 1941. "I want to grow things. Cabbages, for instance.""
+[72] https://www.ox.ac.uk/news/2023-06-21-double-disadvantage-unemployment-youth-and-electoral-participation-uk
+"It is widely known, young people tend to vote less than older people: this is well-established in most democratic countries, and the UK is no exception to this pattern. But because of this life-cycle effect, young people have a key political disadvantage: their electoral weight is less than it should be, influencing both election results and policymaking.
+
+While less likely to vote, young people are, instead, more likely to experience spells of unemployment at the beginning of their careers. This is similarly problematic, because unemployment experiences decrease the probability of voting - even after an individual gets another job."
+[73] https://www.oecd-forum.org/posts/the-cost-of-politics-is-undermining-democracy
+"You need money to participate in elections and run political campaigns. While money may not guarantee electoral success, it is increasingly rare for those with limited funds to win. As politics has become more competitive through multi-party democracy, the cost of politics has grown - and so has the cost of being in office once elected. This, in turn, poses risks to effective democratic systems.
+
+First, the financial demands on MPs during the electoral cycle create perverse incentives for them to focus on individual interests over public ones. It makes them susceptible to influence from those who can afford to pay – putting money and fundraising at the centre of political life. This can involve moves to ensure that their pay and allowances are as generous – and as opaque – as possible. In an environment where money and politics are so intrinsically linked, corruption increasingly becomes part and parcel of government function."
+[74] https://assets.aecf.org/m/resourcedoc/aecf-RACEMATTERSchildwelfare-2006.pdf
+"Systematic policies, practices, and
+stereotypes work against families and children of color to undermine their strengths, deplete their resilience, and compromise their outcomes. Child welfare leaders and service providers require a deeper understanding of the consequences of embedded inequities, how they are produced, and how they can be challenged in order to design a framework that ensures that children are appropriately protected and that all children do well."
+[75] https://bfi.uchicago.edu/insight/research-summary/stigma-in-welfare-programs/
+"This paper addresses this gap by introducing a novel approach to study stigma in welfare programs. The authors examine whether failure to report program receipt in surveys is negatively associated with program participation in the census tract of survey respondents. For this relation to provide evidence on the presence and nature of stigma, underreporting needs to be related to stigma, and higher local participation should decrease stigma. In other words, people may be disinclined to admit that they receive welfare payments unless enough of their peers also participate in the program."
+[76] https://socialpolicyblog.com/2023/01/25/what-can-welfare-stigma-do-mobilising-stigma-as-a-site-for-resistance/
+"What does welfare stigma do? In our state of art review article, we found stories of inner turmoil: stories about poor self-esteem and self-worth, feelings of inferiority and inadequacy, embarrassment, humiliation, and feelings of failure. In sum, we found stories of shame.
+
+These feelings, which are also associated with anxiety, depression, loneliness, self-harm and suicidal ideation, are just a few of the consistently documented ‘psychic costs’ of welfare stigma. In a flourishing society, we would jump on these findings and try to do something to alleviate not only these symptoms but the origins of them."
+[77] https://web.swk.cuhk.edu.hk/~hwong/pubfile/journal/2020_Impacts%20of%20poverty%20stigma%20on%20negative%20affect%20among%20welfare%20recipients.pdf
+[78] https://www.ncoa.org/article/ending-stigma-around-receiving-benefits
+"Counselors who educate and assist older adults and people with disabilities to apply for benefits are on the frontline in the fight to overcome stigma and encourage people to get the public assistance for which they are eligible. Some of their successful strategies for overcoming stigma, which are outlined further in the report, included:
+
+ Challenging the narrative of “deserving” and “undeserving” poor
+ Focusing on the structure of the program
+ Correcting misconceptions about the benefit
+ Providing person-centered benefits enrollment assistance
+ Demonstrating the value of a benefit"
+[79] https://www.theguardian.com/social-care-network/2013/jan/14/means-testing-benefits-not-efficient-fair
+"What means testing generally means is a lot more bureaucracy. This is quite likely to eat up any apparent savings that it is suggested it will make possible. It's no different in our computerised age. All that has meant is huge IT-system bills that almost invariably end up unfit for purpose."
+[80] https://www.ubilabnetwork.org/blog/how-much-does-it-cost-to-give-someone-one-pound-in-benefits
+"The net cost of benefits, the cost of benefits after tax, which is what we should really consider the true cost of benefits, is approximately £27.8 billion in 2014 and it is the poorest 40% of the population who are net beneficiaries of the system. That means to make people £1 better off the DWP spends £0.22. This is a far less impressive."
+[81] https://fullfact.org/economy/changing-face-welfare/
+"As of February 2016 around 4.7 million people of working age—up to 64 years old—received some form of welfare payments. 760,000 working age people received welfare support because they were unemployed in February 2016, getting either Jobseeker’s Allowance or the new Universal Credit. This figure has generally been falling over the past few years."
+[82] https://ellenbrown.com/2017/10/03/how-to-fund-a-universal-basic-income-without-increasing-taxes-or-inflation/
+"Studies have also shown that it would actually be cheaper to distribute funds to the entire population than to run the welfare services governments engage in now. It has been calculated that if the UK’s welfare budget were split among the country’s 50 million adults, each of them would get £5,160 a year."
+[83] https://www.gov.uk/government/news/government-announces-new-welfare-reforms-to-help-thousands-into-work
+"The consultation will look at updating the Work Capability Assessment’s categories so they better reflect the modern world of work and the opportunities more readily available to disabled people. [...]
+
+These categories are designed to determine what activity people can do and how that affects their ability to work. This then informs assessors’ decisions on what additional financial support people can receive through their benefits, and if claimants need to do anything to prepare themselves for work.
+
+The consultation’s proposals include updating the categories associated with mobility and social interaction, reflecting improved employer support in recent years for flexible and home working – and minimising the risk of these issues causing problems for workers."
+[84] https://www.gov.uk/government/news/complex-benefit-system-leading-to-fraud-and-error
+"The current benefits system is so complex that while fraud fell slightly to £1.1billion, the amount lost to claimant error remains at the highest it has ever been at £1.3 billion. Universal Credit, which is being introduced from next year, will simplify the benefits system and dramatically reduce fraud and error."
+[85] https://neweconomics.opendemocracy.net/index.html%3Fp=1755.html
+"As well as challenging notions of work, a human rights approach can also support arguments about whether a basic income is deserved. It strives towards a society in which the inherent moral worth of all humans is recognised and realised, aiming for every individual to have a life worthy of human dignity. Human rights do not value people by their economic contribution to society via wage labour, instead recognising their existence itself as valuable. Basic income matches these values, giving people more freedom to lead their own lives and supporting people who contribute in ways beyond wage labour, such as caring for others, political engagement, artistic and creative endeavours."
+[86] https://www.investopedia.com/terms/f/free_rider_problem.asp
+"The free rider problem is the burden on a shared resource that is created by its use or overuse by people who aren't paying their fair share for it or aren't paying anything at all."
+[87] https://www.plutobooks.com/blog/social-reproduction-theory-ferguson/
+"Social Reproduction Feminism (which I’ll shorten to SRF for the rest of this posting) explores the ways in which the daily and generational renewal of human life (and thus of human labour power) is absolutely essential to the decade-over-decade tenacity not merely of inequality, but of capitalism. [...]
+
+SRF is a loose but nonetheless broadly coherent school of thought – one that identified and developed the political economic insight that the social labours involved in producing this and the next generation of workers sit in a necessary but contradictory relation to the capitalist drive to produce and accumulate surplus value."
+[88] https://www.independent.co.uk/voices/international-womens-day-wages-housework-care-selma-james-a9385351.html
+"In January, an Oxfam report said that women and girls do more than three-quarters of all unpaid care work, contributing an estimated £8.28 trillion to the global economy with a total of 12.5 billion hours a day.
+
+Like other reports, it urges us to get an education and thus a better-paid job rather than urging governments to pay us for this mountain of work. Women did not form a movement to eliminate caring but the dependence, isolation, servitude, invisibility and almost universal discrimination that society imposes on the unwaged carer."
+[89] https://novaramedia.com/2022/03/21/the-wages-for-housework-campaign-is-as-relevant-as-ever/
+"Whilst WfH incorporated diverse perspectives and struggles, its uniting demand was clear: that caring labour, mostly done by women, is not biological destiny or ‘love’, but – under capitalism – work that should receive a wage. 
+
+This claim was, and still is, radical. Women’s unpaid labour is not accounted for in a country’s GDP, and is not respected as ‘real work’. Indeed, it is erased, says WfH organiser Selma James. 
+
+The ‘housework’ the campaign referred to acted as shorthand for all feminised labour, in and outside of the home. This socially reproductive and affective labour – the work that births new workers and keeps people alive and well enough to, in turn, work (i.e. fucking, feeding and not hurting men’s feelings) – went unacknowledged by both the patriarchal left and the labour movement. WfH activists set out to change this."
+[90] https://www.kcl.ac.uk/wages-for-housework-a-step-towards-equality-at-first-glance-a-step-away-at-second
+"Apart from the obvious inequality this perpetuates, further circumscribing the role of a woman to housework would also mean the exclusion of women from decision making authorities in both the State and private sphere. This exclusion and segregation to ‘house’ based labour permits the present unequal structure of social relations to continue unhindered despite the recognition of wages for household chores. In fact, paying wages for housework within a structure that segregates and disadvantages women may instead contribute to entrenching the status quo or even regressing from the little distance travelled towards equal pay."
+[91] https://assets.publishing.service.gov.uk/media/57a08a6aed915d622c00070d/EconomicTtransfer2012Yoong.pdf
+"Assuming that intra-household bargaining is not fully cooperative, giving transfers to women rather than men will have differential effects if (a) the transfer increases women’s relative bargaining power and (b) women have different tastes/preferences over the allocation of expenditure. It should be noted that achieving increased gender parity itself may be interpreted as an indicator of increased family well-being. We note, however, that in some
+settings, other factors such as social norms or a lack of legal rights for women may counteract this effect. One example of this is in instances when transfers to young girls are simply turned over as a matter of course to their fathers and husbands."
+[92] https://www.penguin.co.uk/articles/2021/02/universal-basic-income-pros-cons
+"Those with ill or differently abled relatives are often forced to quit their jobs to care for them full-time. UBI would allow care-workers to support themselves, encouraging care work within the home and relieving pressure on public services that provide care to the sick and elderly."
+[93] https://calmatters.org/california-divide/2023/02/guaranteed-income-california/
+"Los Angeles and Oakland parents who received monthly cash without restrictions from new pilot programs said it did more than help them pay bills. What they gained, they said, was priceless — more time with their children."
+[94] https://www.dissentmagazine.org/online_articles/social-reproduction-and-the-pandemic-with-tithi-bhattacharya/
+"The best way to define social reproduction is the activities and institutions that are required for making life, maintaining life, and generationally replacing life. I call it “life-making” activities.
+
+Life-making in the most direct sense is giving birth. But in order to maintain that life, we require a whole host of other activities, such as cleaning, feeding, cooking, washing clothes. There are physical institutional requirements: a house to live in; public transport to go to various places; public recreational facilities, parks, after-school programs. Schools and hospitals are some of the basic institutions that are necessary for the maintenance of life and life-making."
+[95] https://evonomics.com/money-markets-number-own-us/
+"Of all human inventions, money must be the most deceptively powerful. It helped spark the development of writing and the organization of the first city-states. Its use contributed to a great flowering of thought in the Axial Age. It has been the cause of epic bloodlust and the focus of scientific geniuses. It arouses overpowering emotions but also a kind of detachment. It has the nuclear power to make or destroy nations. We revere it but also see it as corrupting—even evil. And yet our economic theories treat it as a mere tool for exchange and accounting, nothing special in itself."
+[96] https://qz.com/765902/ubi-wouldnt-mean-everyone-quits-working
+". Researchers found that households as a whole reduced their workloads by about 13%, as economist Evelyn Forget explains in a 2011 paper published by Canadian Public Policy. But within each household, the (generally male) primary breadwinners cut back on work hours only slightly. Women who were secondary earners reduced their work hours more, devoting more time to household care and staying home with young children."
+[97] https://www.gov.uk/government/statistics/community-life-survey-202122/community-life-survey-202122-volunteering-and-charitable-giving
+"In 2021/22, 27% of respondents reported taking part in formal volunteering at least once in the last year (approximately 12 million people in England). This is lower than 2020/21 (30%, approximately 14 million people) and lower than rates between 2013/14 and 2019/20 (between 36% to 45%)."
+[98] https://www.weforum.org/agenda/2020/12/how-people-spend-their-time-globally/
+[99] https://www.rosterfy.com/blog/7-strategies-for-volunteer-recruitment
+"Creating a sense of community among your volunteers could be done by hosting events or social gatherings to bring volunteers together, or providing opportunities for volunteers to connect and share their experiences with one another. One example is to arrange a volunteer appreciation lunch or a volunteer movie night to thank your volunteers for their hard work and provide an opportunity for them to get to know each other."
+[100] https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2019/september/new-bhf-report-finds-young-people-are-more-interested-in-volunteering-than-older-generations
+"Our survey of 2,001 UK adults showed that under 35s volunteer more than any other generation, with over a quarter of 25-34 year olds (25%) currently giving up their time for charities, compared to just over one in eight respondents aged 45-54 (13%). 
+ 
+The findings also revealed that only 1 in 12 people aged 16-24 (8%) said they don’t volunteer as it doesn’t interest them, compared to one in five respondents (20%) aged 55 and over who said the same thing."
+[101] https://philippines.oxfam.org/latest/press-release/unequal-distribution-housework-spotlighted-women%E2%80%99s-month
+"“Women disproportionately carry the burden of unpaid care work. It is time that we resurface and recognize it as a shared responsibility by everyone. Equality should begin at home,” Oxfam in the Philippines Country Director Maria Rosario Felizco said.
+
+To mark the event, celebrity influencer and care work advocate Camille Prats inspired 100 newly-wed couples to share care work responsibilities at a mass wedding led by the local government of Tacloban City.
+
+Oxfam’s 2017 Household Care Survey, which was conducted in Eastern Visayas and Mindanao, showed that women spend an average of 4.5 to 6.5 hours of household chores, which is three to six times longer than men."
+[102] https://www.icpsr.umich.edu/web/pages/instructors/ddlgs/guides/secondshift/index.html
+"The second shift is a term coined and popularized by sociologist Arlie Hochschild. It refers to the household and childcare duties that follow the day's work for pay outside the home. While both men and women experience the second shift, women tend to shoulder most of this responsibility."
+[103] https://www.yourmoney.com/news/domestic-abuse-survivors-too-broke-to-leave/
+"“Through our work with survivors, we constantly hear about the economic barriers preventing them from fleeing their abusers. Women and their children are often faced with insecurity – they either face homelessness or must rely on the circumstances of family and friends to be able to put them up for short periods of time. Many women are forced to continue living in danger with an abuser who not only poses a real threat to their life, but controls all aspects of it, from paying the rent and buying food, through to their bank account, benefits and ability to work.”"
