@@ -1,11 +1,11 @@
 import re
 import mwparserfromhell
+from src.data_collection.collect_modifications import parse
 
 REDDIT_URLS=['http://www.reddit.com/r/changemyview/wiki/rules',
  'http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting',
  'http://www.reddit.com/r/changemyview/wiki/populartopics',
  'http://www.reddit.com/message/compose?to=/r/changemyview']
-
 
 def find_external_sources_cmv(text):
     # Improved regex to exclude trailing punctuation like ')', ']', etc.
@@ -17,30 +17,13 @@ def find_external_sources_cmv(text):
     
     return len(links), links
 
-def find_references_number_kialo(text,page_id):
+def find_references_number_kialo(text):
+
     # Regex to match [number] patterns
     reference_pattern = r"\[\d+\]"
     references = re.findall(reference_pattern, text)
+    return len(references)  
 
-    #THIS PART HAS TO BE SEPARATED TO MAKE A FUNCTION TO EXTRACT SOURCES FROM RAW TEXT
-    #input_dir = f'data/kialo/kialo_page_updated/{str(page_id)}'
-    # with open(input_dir, 'r') as fi:
-    #     links_references = []
-    #     soureces_flag=False
-    #     for line in fi:
-    #         if line.lstrip().startswith('Sources:'):
-    #             soureces_flag=True
-    #         if soureces_flag==False:
-    #             continue
-    #         for ref in references:
-    #             if  line.startswith(ref):
-    #                 if "http" in line:
-    #                     link=re.findall("http\S+|www\S+",line)[0]
-    #                 else: 
-    #                     link=re.sub("\[\d+\]",'',line)
-    #                     link=link.lstrip()
-    #                 links_references.append(link)
-    return len(references)  #, links_references
 
 def get_reference_infos(code):
     references=[]
@@ -70,15 +53,47 @@ def get_reference_infos(code):
                 prev_node=node
     return [refered_sentences,len(refered_sentences),ref_counter,len(references),references]
 
-def extract_links_wiki(text):
-    url_pattern = r'https?://[^\s\|]+'
-    wikipedia_pattern = r'\[\[Wikipedia:[^\]]+\]\]'
-    links = re.findall(url_pattern, text)
-    wikipedia_links = re.findall(wikipedia_pattern, text)
-    wikipedia_links = [link[2:-2] for link in wikipedia_links]  # Remove '[[' and ']]'
-    all_links = links + wikipedia_links
-    
-    return all_links
+def get_wiki_references(wiki_data):
+
+    titles = wiki_data[wiki_data['platform']=='wiki']['title'].unique().tolist()
+
+    for title in titles:
+        code,link = parse(title)
+        refered_sentences,num_sent_referenced,ref_counter,num_ref,references = get_reference_infos(code)
+        return ref_counter
+
+
+def get_platforms_reference_number(merged_data,platforms):
+
+    wiki_num_ref=0
+    kialo_num_ref=0
+    cmv_num_ref=0
+
+    for platform in platforms:
+        plat_data = merged_data[merged_data['platform']==platform]
+        for page_id in merged_data['page_id'].unique():
+            page_data = plat_data[plat_data['page_id']==page_id]
+
+            #Routine for Wikidebate
+            if platform=='wiki':
+                wiki_num_ref=get_wiki_references(page_data)
+            
+            #Routine for Kialo
+            if platform=='kialo':
+                for i,row in page_data.iterrows():
+                    text = row['item']
+                    title = row['title']
+                    nref = find_references_number_kialo(text)
+                    kialo_num_ref+=nref
+
+            #Routine for CMV
+            if platform=='cmv':
+                page_data['original_item']=page_data['original_item'].astype(str)
+                for text in plat_data['original_item'].tolist():
+                    nref,ref = find_external_sources_cmv(text)
+                    cmv_num_ref+=nref
+
+    return wiki_num_ref,kialo_num_ref,cmv_num_ref
 
 
 def divide_reference_by_page(data,references,platform,merged_data):
@@ -116,25 +131,3 @@ def divide_reference_by_page(data,references,platform,merged_data):
     return links_by_page
 
 
-def get_platforms_reference_number(wiki_data,kialo_data,cmv_data):
-    cmv_references=[]
-    cmv_num_ref=[]
-    kialo_num_ref=[]
-    num_ref=wiki_data['references'].tolist()
-    #kialo_references=[]
-
-    cmv_data['original_item']=cmv_data['original_item'].astype(str)
-    for text in cmv_data['original_item'].tolist():
-        nref,ref = find_external_sources_cmv(text)
-        cmv_references.append(ref)
-        cmv_num_ref.append(nref)
-
-    for i,row in kialo_data.iterrows():
-        text = row['item']
-        title = row['title']
-        nref = find_references_number_kialo(text,title)
-        kialo_num_ref.append(nref)
-        #kialo_references.append(ref)
-
-    num_ref+=kialo_num_ref+cmv_num_ref
-    return num_ref
