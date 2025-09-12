@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 
 def binarize_knowledge(data,dimension_df,trehsold):
+    
     binazrized=[]
     for i,row in dimension_df.iterrows():
         if row['knowledge']>trehsold:

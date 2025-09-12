@@ -10,7 +10,7 @@ import math
 import os
 from urllib.parse import urlparse, unquote
 from time import sleep
-from revisions_utils import *
+#from revisions_utils import *
 
 BASE_URL= "https://en.wikiversity.org/w/api.php"
 API_URL = 'https://en.wikiversity.org/w/api.php'
