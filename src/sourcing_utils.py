@@ -1,6 +1,6 @@
 import re
 import mwparserfromhell
-from src.data_collection.collect_modifications import parse
+from src.data_collection.wikidebate_utils import parse
 
 REDDIT_URLS=['http://www.reddit.com/r/changemyview/wiki/rules',
  'http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting',

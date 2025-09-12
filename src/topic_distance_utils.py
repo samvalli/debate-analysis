@@ -2,6 +2,89 @@ from tqdm import tqdm
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
+import os
+
+def collect_runs_distances(merged_data,platforms,treshold,emb_dir,deb_dir,threads_id_matrices,model_bert,num_runs=10):
+
+    distribution_dict={}
+    distribution_dict[treshold]={}
+    platform_sim_st={}
+    distance_distribution_st = {}
+    embeddings_averages={}
+    debate_labels_dict={}
+    embedding_files = sorted(os.listdir(emb_dir))
+    debates_files = sorted(os.listdir(deb_dir))
+    
+    for run in range(num_runs):
+        distribution_dict[treshold][run]={}
+        for i,page_id in enumerate(merged_data['page_id'].unique()):
+            #print(page_id)
+            page_id=page_id
+            embeddings=np.load(emb_dir+'/'+embedding_files[i])
+            debates_labels=np.load(deb_dir+'/'+debates_files[i])
+            thread_labels=np.array(threads_id_matrices[i])
+            unique_threads,counts=np.unique(thread_labels,return_counts=True)
+            avg_embeddings=[]
+            debate_labels_reduced = []
+            for thread,count in zip(unique_threads,counts):
+                indices = np.where(thread_labels == thread)[0]
+                if count>treshold:
+                    indices = np.random.choice(indices, size=treshold, replace=False)
+                debate_labels_reduced.append(debates_labels[indices[0]])
+                avg_embeddings.append(np.mean(embeddings[indices], axis=0))
+
+            avg_embeddings=np.array(avg_embeddings)
+            debate_labels_reduced = np.array(debate_labels_reduced)
+            embeddings_averages[str(page_id)]=avg_embeddings
+            debate_labels_dict[str(page_id)]=debate_labels_reduced
+            mean_semantic_similarity_sentence_transformer(avg_embeddings,debate_labels_reduced,page_id,platform_sim_st,
+                                                          distance_distribution_st,model_bert)
+
+        for platform in platforms:
+            plat_data = merged_data[merged_data['platform']==platform]
+            for page_id in merged_data['page_id'].unique():
+                page_data = plat_data[plat_data['page_id']==page_id]
+                page_distances=[]
+                for debate_id in page_data['debate_id'].unique():
+                    debate_distance=platform_sim_st[int(page_id)][debate_id]
+                    distribution_dict[treshold][run][debate_id]=platform_sim_st[int(page_id)][debate_id]
+    
+    return distribution_dict
+
+
+def obtain_debate_wise_topic_distance(merged_data,platfroms,treshold,emb_dir,deb_dir,threads_id_matrices,model_bert,num_runs=10):
+    debate_wise_topic_distance=[]
+    distribution_dict = collect_runs_distances(merged_data,platfroms,treshold,emb_dir,
+                                               deb_dir,threads_id_matrices,model_bert,num_runs) 
+    debate_single_dict=distribution_dict[treshold]
+    for debate_id in merged_data['debate_id'].unique():
+        averages_list=[]
+        print(f"debate_id:{debate_id}")
+        for run in range(10):
+            averages_list.append(debate_single_dict[run][debate_id])
+        debate_wise_topic_distance.append(np.mean(averages_list))
+        print(f"average_distances:{averages_list}")
+        print(f"mean distance: {np.mean(averages_list)}")
+        print(f"std distance:{np.std(averages_list)}")
+        print("\n")
+
+    return debate_wise_topic_distance
+
+def get_thread_id_claims(merged_data,platforms):    
+
+    thread_matrices=[]
+
+    for i, page_id in enumerate(merged_data['page_id'].unique().tolist()):
+        page_data = merged_data[merged_data['page_id'] == page_id]
+        print(f"NEW PAGE {i+1}. {page_data['title'].tolist()[0]}")
+        plat_thread_id=[]
+        for platform in platforms:
+            plat_data = page_data[page_data['platform'] == platform]
+            plat_thread_id += plat_data['thread_id'].tolist()
+
+        thread_matrices.append(plat_thread_id)
+
+    return thread_matrices
 
 
 def mean_semantic_similarity_sentence_transformer(embeddings, platform_labels,page_id,platform_similarities,distance_distribution,model):
@@ -79,8 +162,8 @@ def get_sentence_transformers_claim_embeddings(merged_data, platforms, model, to
 
             topic_embedding.extend(claim_embeddings)
         print(len(topic_embedding))
-        np.save('data/global/st_embeddings/'+f'{page_id}_embeddings.npy',topic_embedding)
-        np.save('data/global/st_debates/'+f'{page_id}_debate_ids.npy',np.array(claims_debate))
+        np.save('data/st_embeddings/'+f'{page_id}_embeddings.npy',topic_embedding)
+        np.save('data/st_debates/'+f'{page_id}_debate_ids.npy',np.array(claims_debate))
         
         embeddings_matrices.append(topic_embedding)
         debate_matrices.append(claims_debate)
