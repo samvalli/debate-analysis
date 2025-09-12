@@ -7,7 +7,8 @@ It is not intended to represent the full framework used, but rather as an illust
 ## Overview
 
 The project provides:
-- **Data collection tools** (`code/data_collection/`) used to scrape and preprocess debates from the platforms **Wikidebate**, **Kialo**, and **Change My View**.
+- **Data collection tools** (`code/data_collection/`) used to scrape and preprocess debates from the platforms **Wikidebate**, **Kialo**, and **Change My View**. In this folder all the we find a python script for each of the platforms (`wikidebate_utils.py`,`kialo_utils.py` and `cmv_utils.py`), along with a script to manage wikidebate revisions (`revisions_utils.py`)
+
 - **Aspect evaluation scripts** (`code/` and other scripts in the repo), which operationalize deliberation metrics such as:
   - Engagement  
   - Equality  
@@ -22,7 +23,20 @@ The project provides:
 
 - **Example of debate analysis** (`notebook_example.ipynb`) shows how to compute the defined metrics upon three debates -one from each platform considered- about the same topic.
 
-## Repository Structure
+## Data collection
+
+At the time of writing, this repository does not include a full tutorial on how to collect the required data.
+However, we provide code to extract data from the three platforms (avaiable in `src/data_collection`), along with brief notes on the process:
+
+* **Wikidebate**: 
+
+* **Kialo**: The most reliable way we found to download debates of interest was manually. After collecting the links to the debates, you can retrieve them directly from the Kialo website. Each debate can be downloaded as a `.txt` file containing all the posts and references (e.g. `data/raw_data_kialo/kialo_page_content/1096/should-governments-provide-a-universal-basic-income-14053.txt`). Additionally, a `.txt` file containing information about the users activity (e.g. `data/raw_data_kialo/kialo_authors/1096/should-governments-provide-a-universal-basic-income-14053.txt`). 
+
+* **CMV**: As with Kialo, we first gathered the links to the debates of interest. To obtain all posts from these debates, we used the `praw` library, all the function to use it are contained in the `cmv_utils.py` script. within this script you can find the `preprocess_reddit_text` function. This function cleans Reddit posts by removing formatting artifacts (underscores, quotes, extra whitespace), links, Reddit-specific mentions, and special characters. It also normalizes text by decoding HTML entities and converting emojis into their textual representation.
+
+For further information about data collection contact the authors.
+
+## Debate analysis example
 
 ## Repository Structure
 
