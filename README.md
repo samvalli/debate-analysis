@@ -39,14 +39,10 @@ For further information about data collection contact the authors.
 
 ## Debate analysis example
 
-<<<<<<< HEAD
-=======
 You can find a small but instructive example in `notebook_example.ipynb`. This notebook show how the provided code can be used for analyzing the aspects of debates across Wikidebates, Kialo, and ChangeMyView (CMV). We selected a debate about the topic Universal Basic Income from each these platform and evaluated the defined metrics upon them. 
 
 ## Repository Structure
 
->>>>>>> progress_branch
-```
 debate-analysis/
 │
 ├── src/      
