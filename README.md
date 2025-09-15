@@ -43,7 +43,8 @@ You can find a small but instructive example in `notebook_example.ipynb`. This n
 
 ## Repository Structure
 
-'''
+
+```
 debate-analysis/
 │
 ├── src/      
@@ -55,4 +56,4 @@ debate-analysis/
 |      └── st_embeddings/
 ├── notebook_example.ipynb
 └── README.md
-'''
+```
