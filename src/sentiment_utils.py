@@ -3,9 +3,25 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk import tokenize
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-import pandas as pd
 from nltk import tokenize
 
+
+def get_sentiment_scores(merged_data,platforms,sentiment,polarity):
+
+    merged_data=merged_data.assign(sentiment=sentiment,polarity=polarity)
+    sentiment_score=[]
+    polarity_score = []
+
+    for platform in platforms:
+        plat_data = merged_data[merged_data['platform']==platform]
+        for page_id in merged_data['page_id'].unique():
+            pg_data = plat_data[plat_data['page_id']==page_id]
+            for debate_id in pg_data['debate_id'].unique():
+                debate_data=pg_data[pg_data['debate_id']==debate_id]
+                sentiment_score.append(debate_data['sentiment'].mean())
+                polarity_score.append(debate_data['polarity'].mean())
+    
+    return sentiment_score,polarity_score
 
 def tex_blob_sentiment(merged_data,sentence_split=False):
     items_subjectivity=[]
